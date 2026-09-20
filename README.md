@@ -37,4 +37,5 @@ A short weekly check-in with each student covers updating their cards, what is b
 
 ## Contact
 
-[PI name and email]
+Pablo Knobel, PhD
+pablo.knobel@mssm.edu
