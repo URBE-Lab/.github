@@ -1,7 +1,5 @@
 # URBE Lab
 
-[One or two sentences on what the lab studies and its mission.]
-
 This page summarizes how we organize our work. Each tool has one job, and we keep to it.
 
 ## Where things live
