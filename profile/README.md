@@ -1,6 +1,6 @@
 # URBE Lab
 
-This page summarizes how we organize our work. Each tool has one job, and we keep to it.
+This page summarizes how we organize the lab and our work. 
 
 ## Where things live
 
