@@ -11,6 +11,12 @@ This page summarizes how we organize our work. Each tool has one job, and we kee
 | **Trello** | Tasks, owners, and deadlines | 
 | **OneDrive** | Manuscripts, protocols, meeting notes | 
 
+## Communication
+
+- **Slack:** every project has its own channel, and all project communication happens there. Use Slack DMs for most 1-on-1 communication.
+- **Email:** official communications, and anything that needs to loop in people outside the lab.
+- **Text/WhatsApp:** truly urgent matters only.
+
 ## Sensitive data
 
 Patient-level and restricted-use data (EHR, PHI, files covered by data use agreements) stay in approved secure computing environments. They are never committed to GitHub, posted in Slack, attached to Trello cards, or sent by email. Every repository ignores data files by default, and that includes small test extracts.
@@ -20,6 +26,17 @@ Patient-level and restricted-use data (EHR, PHI, files covered by data use agree
 - One private repository per project, with one repository per independent student project and one shared repository for group projects.
 - Group projects use branches and pull requests, with at least one reviewer before merging.
 - Every repository has a README describing the question, the folder structure, and how to reproduce the analysis.
+
+## Coding Guidelines
+
+All lab R projects follow our [coding guidelines](https://github.com/URBE-Lab/repository_template/blob/main/CODING_GUIDELINES.md) — see the [repository template](https://github.com/URBE-Lab/repository_template) for naming conventions, project structure, and reproducibility standards.
+
+## Starting a new project
+
+- Create the project repository from the [repository template](https://github.com/URBE-Lab/repository_template).
+- Clone the repository to your personal device.
+- Confirm or request access to the required data.
+- Set up weekly meetings.
 
 ## Tasks and planning
 
