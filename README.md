@@ -21,6 +21,10 @@ Patient-level and restricted-use data (EHR, PHI, files covered by data use agree
 - Group projects use branches and pull requests, with at least one reviewer before merging.
 - Every repository has a README describing the question, the folder structure, and how to reproduce the analysis.
 
+## Coding Guidelines
+
+All lab R projects follow our [coding guidelines](https://github.com/URBE-Lab/repository_template/blob/main/CODING_GUIDELINES.md) — see the [repository template](https://github.com/URBE-Lab/repository_template) for naming conventions, project structure, and reproducibility standards.
+
 ## Tasks and planning
 
 - **One board per project**, plus a lab overview board for milestones only: submissions, IRB renewals, abstract deadlines, and committee meetings.
